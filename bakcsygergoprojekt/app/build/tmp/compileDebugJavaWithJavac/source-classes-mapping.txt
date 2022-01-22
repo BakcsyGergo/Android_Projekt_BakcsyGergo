@@ -1,0 +1,11 @@
+com/example/bakcsygergoprojekt/BuildConfig.java
+ com.example.bakcsygergoprojekt.BuildConfig
+com/example/bakcsygergoprojekt/MovieAdapter.java
+ com.example.bakcsygergoprojekt.MovieAdapter
+ com.example.bakcsygergoprojekt.MovieAdapter$MyViewHolder
+com/example/bakcsygergoprojekt/MainActivity.java
+ com.example.bakcsygergoprojekt.MainActivity
+ com.example.bakcsygergoprojekt.MainActivity$1
+ com.example.bakcsygergoprojekt.MainActivity$1$1
+com/example/bakcsygergoprojekt/Movie.java
+ com.example.bakcsygergoprojekt.Movie
